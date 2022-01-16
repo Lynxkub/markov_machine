@@ -1,0 +1,19 @@
+{
+  "name": "markov_machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lynxkub/markov_machine.git"
+  },
+  "author": "lynxkub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lynxkub/markov_machine/issues"
+  },
+  "homepage": "https://github.com/Lynxkub/markov_machine#readme"
+}
